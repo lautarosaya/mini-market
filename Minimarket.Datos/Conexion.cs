@@ -16,7 +16,7 @@ namespace Minimarket.Datos
         private string usuario;
         private string password;
         private bool seguridad;
-        private static Conexion conexion = null;
+        private static Conexion? conexion = null;
 
         private Conexion()
         {
