@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MiniMarket.Presentacion/1.0.0": {
+        "dependencies": {
+          "Minimarket.Entidades": "1.0.0",
+          "Minimarket.Negocio": "1.0.0"
+        },
+        "runtime": {
+          "MiniMarket.Presentacion.dll": {}
+        }
+      },
+      "Minimarket.Datos/1.0.0": {
+        "dependencies": {
+          "Minimarket.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "Minimarket.Datos.dll": {}
+        }
+      },
+      "Minimarket.Entidades/1.0.0": {
+        "runtime": {
+          "Minimarket.Entidades.dll": {}
+        }
+      },
+      "Minimarket.Negocio/1.0.0": {
+        "dependencies": {
+          "Minimarket.Datos": "1.0.0",
+          "Minimarket.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "Minimarket.Negocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiniMarket.Presentacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Minimarket.Datos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Minimarket.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Minimarket.Negocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

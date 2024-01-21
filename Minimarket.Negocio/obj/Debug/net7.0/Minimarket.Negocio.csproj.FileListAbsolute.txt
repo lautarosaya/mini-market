@@ -1,0 +1,17 @@
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Negocio\bin\Debug\net7.0\Minimarket.Negocio.deps.json
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Negocio\bin\Debug\net7.0\Minimarket.Negocio.dll
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Negocio\bin\Debug\net7.0\Minimarket.Negocio.pdb
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Negocio\bin\Debug\net7.0\Minimarket.Datos.dll
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Negocio\bin\Debug\net7.0\Minimarket.Entidades.dll
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Negocio\bin\Debug\net7.0\Minimarket.Datos.pdb
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Negocio\bin\Debug\net7.0\Minimarket.Entidades.pdb
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Negocio\obj\Debug\net7.0\Minimarket.Negocio.csproj.AssemblyReference.cache
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Negocio\obj\Debug\net7.0\Minimarket.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Negocio\obj\Debug\net7.0\Minimarket.Negocio.AssemblyInfoInputs.cache
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Negocio\obj\Debug\net7.0\Minimarket.Negocio.AssemblyInfo.cs
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Negocio\obj\Debug\net7.0\Minimarket.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Negocio\obj\Debug\net7.0\Minimarket.Negocio.csproj.CopyComplete
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Negocio\obj\Debug\net7.0\Minimarket.Negocio.dll
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Negocio\obj\Debug\net7.0\refint\Minimarket.Negocio.dll
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Negocio\obj\Debug\net7.0\Minimarket.Negocio.pdb
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Negocio\obj\Debug\net7.0\ref\Minimarket.Negocio.dll

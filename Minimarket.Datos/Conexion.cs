@@ -26,5 +26,36 @@ namespace Minimarket.Datos
             this.password = "123456";
             this.seguridad = true;
         }
+
+        public SqlConnection CrearConexion()
+        {
+            SqlConnection cadena = new SqlConnection();
+            try
+            {
+                cadena.ConnectionString = "Server=" + this.servidor + "; Database=" + this.baseDatos + ";";
+                if (this.seguridad)
+                {
+                    cadena.ConnectionString = cadena.ConnectionString + "Integrated Security = SSPI";
+                }
+                else
+                {
+                    cadena.ConnectionString = cadena.ConnectionString + "User Id=" + this.usuario + "; Password=" + this.password;
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            return cadena;
+        }
+
+        public static Conexion GetInstancia()
+        {
+            if (conexion == null)
+            {
+                conexion = new Conexion();
+            }
+            return conexion;
+        }
     }
 }

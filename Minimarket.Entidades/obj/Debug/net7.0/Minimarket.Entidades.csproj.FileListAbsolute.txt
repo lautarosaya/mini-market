@@ -1,0 +1,11 @@
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Entidades\bin\Debug\net7.0\Minimarket.Entidades.deps.json
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Entidades\bin\Debug\net7.0\Minimarket.Entidades.dll
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Entidades\bin\Debug\net7.0\Minimarket.Entidades.pdb
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Entidades\obj\Debug\net7.0\Minimarket.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Entidades\obj\Debug\net7.0\Minimarket.Entidades.AssemblyInfoInputs.cache
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Entidades\obj\Debug\net7.0\Minimarket.Entidades.AssemblyInfo.cs
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Entidades\obj\Debug\net7.0\Minimarket.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Entidades\obj\Debug\net7.0\Minimarket.Entidades.dll
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Entidades\obj\Debug\net7.0\refint\Minimarket.Entidades.dll
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Entidades\obj\Debug\net7.0\Minimarket.Entidades.pdb
+C:\Users\lauta\Documents\C#\MiniMarketSol\Minimarket.Entidades\obj\Debug\net7.0\ref\Minimarket.Entidades.dll
