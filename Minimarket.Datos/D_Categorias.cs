@@ -10,7 +10,7 @@ namespace Minimarket.Datos
 {
     public class D_Categorias
     {
-        public DataTable Listado_ca(string cText)
+        public DataTable Listado_ca(string cTexto)
         {
             SqlDataReader Resultado;
             DataTable Tabla = new DataTable();
@@ -20,7 +20,7 @@ namespace Minimarket.Datos
                 SqlCon = Conexion.GetInstancia().CrearConexion();
                 SqlCommand Comando = new SqlCommand("USP_Listado_ca", SqlCon);
                 Comando.CommandType = CommandType.StoredProcedure;
-                Comando.Parameters.Add("@cText", SqlDbType.VarChar).Value = cText;
+                Comando.Parameters.Add("@cTexto", SqlDbType.VarChar).Value = cTexto;
                 SqlCon.Open();
                 Resultado = Comando.ExecuteReader();
                 Tabla.Load(Resultado);

@@ -214,6 +214,7 @@
             Controls.Add(tbcPrincipal);
             Name = "Frm_Categorias";
             Text = "Categorias";
+            Load += Frm_Categorias_Load;
             tabPage2.ResumeLayout(false);
             tabPage2.PerformLayout();
             tabPage1.ResumeLayout(false);

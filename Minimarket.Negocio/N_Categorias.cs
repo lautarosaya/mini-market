@@ -10,10 +10,10 @@ namespace Minimarket.Negocio
 {
     public class N_Categorias
     {
-        public static DataTable GetDatosCategorias(string cText)
+        public static DataTable GetDatosCategorias(string cTexto)
         {
             D_Categorias Datos = new D_Categorias();
-            return Datos.Listado_ca(cText);
+            return Datos.Listado_ca(cTexto);
         }        
     }   
 }
